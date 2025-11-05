@@ -30,11 +30,11 @@ let persona = {
 
 
 //accedere ai valori con la dot notation (.valore)
-//console.log("Nome dell oggetto persona : " + persona.nome);//nome
-//console.log("Cognome dell oggetto persona : " + persona.cognome);//cognome
-//console.log("Città dell oggetto persona : " + persona.citta);//città
-//console.log("Età dell oggetto persona : " + persona.eta);//età
-//console.log("Stato dell oggetto persona : " + persona.sposato);//stato
+console.log("Nome dell oggetto persona : " + persona.nome);//nome
+console.log("Cognome dell oggetto persona : " + persona.cognome);//cognome
+console.log("Città dell oggetto persona : " + persona.citta);//città
+console.log("Età dell oggetto persona : " + persona.eta);//età
+console.log("Stato dell oggetto persona : " + persona.sposato);//stato
 
 
 //richiamo funzione parla dell oggetto persona
