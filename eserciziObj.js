@@ -32,7 +32,7 @@ film.inizio = function() {
 //richiamo funzione
 film.inizio();
 
-//console.log(film);
+console.log(film);
 
 
 
@@ -78,7 +78,7 @@ for (let i = 0; i < classe.length; i++){
     
 }
 
-//console.log(classe);
+console.log(classe);
 
 //calcolo media
 
@@ -102,7 +102,7 @@ console.log("la media dei voti è : " + media.toFixed(1));
 
 //trovo lo studente con il voto piu alto
 
-/*
+
 let votoMigliore = classe[0]; // il primo oggetto ha il voto piu alto
 
 for(let i = 1; i < classe.length; i++){
@@ -113,7 +113,7 @@ for(let i = 1; i < classe.length; i++){
 
   }
 }
-*/
+
 
 let votoMax = classe[0].voto; //assumo che il primo sia il migliore 
 let isMigliore = true; //imposto migliore a true
